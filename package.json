@@ -1,0 +1,20 @@
+{
+  "name": "claude-gruvbox-theme",
+  "publisher": "barjac",
+  "displayName": "Claude Gruvbox",
+  "description": "Claude.com-inspired backgrounds with a gruvbox-light syntax palette",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Gruvbox",
+        "uiTheme": "vs",
+        "path": "./themes/claude-gruvbox-color-theme.json"
+      }
+    ]
+  }
+}
