@@ -2,6 +2,8 @@
 
 Claude Gruvbox is a light VS Code theme inspired by the soft, warm aesthetics of Claude.com and the familiar Gruvbox color palette.
 
+![alt text](screenshot.png)
+
 ## Highlights
 
 - Warm off-white editor background
